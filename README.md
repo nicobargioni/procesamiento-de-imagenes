@@ -55,6 +55,8 @@ Ejecutar el sistema:
 
 streamlit run main.py
 
+Si no funciona, ejecutar python -m streamlit run main.py
+
 ============================================================
 ============================================================
 
